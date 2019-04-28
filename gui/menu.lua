@@ -1,4 +1,4 @@
-Object = require "../classic/classic"
+Object = require "lib/thirdparty/classic/classic"
 
 Menu = Object:extend()
 

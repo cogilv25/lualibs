@@ -1,4 +1,4 @@
-require "menu"
+require "lib/gui/menu"
 
 GUI = {}
 

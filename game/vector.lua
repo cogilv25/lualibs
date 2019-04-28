@@ -1,4 +1,4 @@
-require "lib/thirdparty/classic/classic"
+Object = require "lib/thirdparty/classic/classic"
 -- 2D Vector Class
 Vector = Object:extend()
 

@@ -1,5 +1,5 @@
---! Entity Class
-require "base/vector"
+require "lib/game/vector"
+-- Entity Class
 
 Entity = Object:extend()
 function Entity:new()

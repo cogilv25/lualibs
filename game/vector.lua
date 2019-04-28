@@ -1,4 +1,5 @@
---! 2D Vector Class
+require "lib/thirdparty/classic/classic"
+-- 2D Vector Class
 Vector = Object:extend()
 
 function Vector:new(x,y)
